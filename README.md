@@ -62,8 +62,11 @@ Below are the screenshots of the deployed app built with Streamlit/Gradio.
 
 ## 📍 Project Overview
 
-Blood cancer is a severe disease where **early diagnosis** is crucial.  
-This project builds a **deep learning–based detection system** that classifies blood cell microscopic images into:
+This project was originally developed as my **Final Year Thesis Project** 
+for the Department of Computer Science & Engineering, City University.
+
+Blood cancer is a critical disease where **early and accurate diagnosis** plays a vital role in patient survival.  
+To support this objective, the project proposes a **deep learning–based classification system** capable of identifying blood cell microscopic images into four distinct categories:
 
 - **Benign**
 - **Early Pre-B**
