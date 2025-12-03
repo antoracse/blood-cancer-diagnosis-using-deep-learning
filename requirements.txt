@@ -1,0 +1,17 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+
+# Deep learning
+tensorflow
+tensorflow-addons
+
+# For downloading large files
+gdown
+
+# For interactive app
+streamlit
+pillow
